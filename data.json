@@ -1,0 +1,16 @@
+{
+  "name": "Alice",
+  "age": 30,
+  "address": {
+    "city": "Wonderland",
+    "postal": {
+      "code": "12345",
+      "area": "North"
+    }
+  },
+  "hobbies": ["reading", "chess"],
+  "metadata": {
+    "created": "2023-01-01",
+    "tags": ["user", "active"]
+  }
+}
